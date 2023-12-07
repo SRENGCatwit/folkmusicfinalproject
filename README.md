@@ -10,12 +10,17 @@ HISTORY OF AMERICAN FOLK MUSIC project
 
 It contains:
 
-Main Page,
+Main Page
 
-Article Page,
-Media Page,
-Q&A Page,
+Article Page
+
+Media Page
+
+Q&A Page
+
 Contact Information Page
 
 Non-profit
+
+
 For education purposes only
