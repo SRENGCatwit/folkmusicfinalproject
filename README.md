@@ -21,5 +21,4 @@ Q&A Page
 Contact Information Page
 
 
-Non-profit
-For education purposes only
+Non-profit and for education purposes only
